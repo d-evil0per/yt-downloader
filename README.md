@@ -13,4 +13,4 @@ youtube-dl library
    $ sudo apt-get install youtube-dl
    
 # Run :
-  copy the playlist for eg: www.youtube.com/channel/<channelid>/playlist
+  copy the playlist for eg: www.youtube.com/channel/channelid/playlist
